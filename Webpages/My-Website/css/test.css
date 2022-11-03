@@ -1,0 +1,66 @@
+.chicken {
+width: 600px;
+height: 500px;
+object-fit: cover;
+border-radius: 500px;
+float: left;
+margin-right: 100px;
+}
+.username {
+font-weight: bold;
+font-size: 50px;
+font-family: fantasy;
+}
+.text {
+font-size: 50px;
+font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.Login {
+font-size: 50px;
+font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
+}
+.download_link {
+font-size: 25px;
+}
+.link {
+text-decoration: none;
+}
+.email {
+font-size: 50px;
+font-family: cursive;
+}
+.hotchoc {
+width: 1000px;
+height: 500px;
+object-fit: cover;
+border-radius: 250px;
+}
+
+h1 {
+font-size: 50px;
+color: #ff0000;
+}
+h2 {
+font-size: 100px;
+color: teal;
+}
+h3 {
+font-size: 150px;
+color: darkred;
+}
+h4 {
+font-size: 200px;
+color: yellow;
+}
+.welcome {
+font-family: "Courier New", Courier, monospace;
+font-size: 100px;
+color: #0008ff;
+}
+.random_text {
+font-size: 50px;
+}
+.dummy_text {
+font-size: 50px;
+}
