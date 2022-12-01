@@ -1,0 +1,79 @@
+.me_img{
+    height: 500px;
+    
+    max-width: 100%;
+    
+}
+.mecow_img{
+    height: 500px;
+    text-align: right;
+}
+body{
+    /* text-align: center; */
+    margin: 0;
+    font-family: Helvetica, Ariel, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+header{
+    background-color: red;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1, h2{
+    font-family: 'Press Start 2P', cursive;
+}
+h2{
+    font-size: 30px;
+    color: #e70c19;
+    margin: 40 px 0 10px;
+}
+header h1{
+    color: white;
+    font-size: 50px;
+}
+header h2{
+    color: white;
+}
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 15px solid black;
+}
+main, footer{
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
+footer{
+    color: white;
+    background-color: red;
+    padding: 50px;
+}
+footer p{
+    margin: 0;
+}
+.tut{
+    color: white;
+    opacity: .5;
+    background-color: transparent;
+}
+main img{
+    max-width: 100%;
+    /* text-align: center; */
+}
+a{
+    color: black;
+}
+a:hover{
+    color: white;
+    background-color: blue;
+}
+.caption{
+    color: #999999;
+    font-style: italic;
+    margin-top: 0;
+    text-align: center;
+}
